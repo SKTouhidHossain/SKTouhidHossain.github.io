@@ -1,1 +1,11 @@
-
+*{
+    padding : 0;
+    margin : 0;
+}
+h1{
+    color : white;
+    background-color : teal;
+    padding-top : 10px;
+    padding-bottom : 10px;
+    text-align : center;
+}
